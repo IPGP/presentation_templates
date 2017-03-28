@@ -4,8 +4,8 @@ Presentation Templates
 This repository contains templates for different presentation frameworks that
 are useful for scientific talks.
 
-Presentation Frameworks:
-------------------------
+Frameworks:
+-----------
 
 ### Reveal.js
 Reveal.js is a javascript framework that allows to write presentations in
