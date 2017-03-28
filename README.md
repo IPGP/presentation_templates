@@ -18,4 +18,5 @@ shown in the browser.
 If python is installed, a local webserver can be run for example with: `python
 -m http.server 8080`. Otherwise, `node.js` provides a much faster server that
 can be installed with `sudo npm install http-server -g` and started with
-`http-server`.
+`http-server`. The presentation can then be opened with the browser under the
+URL `localhost:8080`.
